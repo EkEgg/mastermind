@@ -1,5 +1,7 @@
 # mastermind
 
+![Captura de tela do jogo](screenshot.png)
+
 **mastermind** é uma implementação do jogo [Mastermind](https://pt.wikipedia.org/wiki/Mastermind),
 ou Senha, como é conhecido no Brasil. Foi feito como trabalho final da disciplina Computação I do
 Bacharelado em Ciência da Computação da UFRJ. Instruções sobre como jogar o jogo estão disponíveis
